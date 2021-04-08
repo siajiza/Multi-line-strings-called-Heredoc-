@@ -22,5 +22,5 @@ Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
 
 print(content_01) #strip() function pulling out any excess newline characters inside of a multi-line string. 
 
-print(content_02)
+print(content_02) #without strip() function we can see one line empty space and then the item of terminal´s python
 

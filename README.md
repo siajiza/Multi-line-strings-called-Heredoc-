@@ -34,6 +34,7 @@ Let´s see the paragraph construction!
         print(content_02)
   
 Print
+
         TITLE 02
         Content 02 start here. Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus eget urna mollis ornare vel eu leo.
 
